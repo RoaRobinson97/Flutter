@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "576501112587",
+    "firebase_url": "https://covid-19-distance-fence.firebaseio.com",
+    "project_id": "covid-19-distance-fence",
+    "storage_bucket": "covid-19-distance-fence.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:576501112587:android:d4983bb9e9d0ed26fb0c0e",
+        "android_client_info": {
+          "package_name": "com.example.conexiones_cercanas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "576501112587-envnpghmkbla1ktdfe6gf9n60pav5b8q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.conexiones_cercanas",
+            "certificate_hash": "e71ca865a7b528618a528204a412b6c1c55bfb1b"
+          }
+        },
+        {
+          "client_id": "576501112587-vir6jbj6cf8a2bm5012hcp527rq2csr6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgvrFq9--UFvaMUuxHeeEOuDLDTiiaMwo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "576501112587-vir6jbj6cf8a2bm5012hcp527rq2csr6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
